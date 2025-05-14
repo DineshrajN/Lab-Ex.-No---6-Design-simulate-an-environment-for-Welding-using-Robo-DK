@@ -93,10 +93,8 @@ risk of interfering with the robot.
 5. Now the robot retracts normal to the welding path and then straight up
 6. ![image](https://user-images.githubusercontent.com/36288975/173730741-29331e12-e805-44da-bc71-798894720348.png)
 
-## PROGRAM :
-```
-DEVELOPED BY : DHANUSH.G.R.
-REGISTER NO : 212221040038
+## PROGRAM
+
 
 ```
 
